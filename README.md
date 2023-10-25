@@ -5,6 +5,6 @@ This will optimize a portfolio of the four specified stocks. The script will pri
 Requirements:
 The script requires the following Python libraries:
 
-numpy
-pandas
-Matplotlib
+*numpy
+*pandas
+*Matplotlib
